@@ -8,4 +8,5 @@ Los archivos _"Var_""GCM"".nc4 contienen para cada variable y GCM, simulaciones 
 En 101 estaciones meteorológicas. 
 
 Mas información sobre los modelos ESD pueden encontrarse en :
+
 Balmaceda-Huarte, R., & Bettolli, M. L. (2022). Assessing statistical downscaling in Argentina: Daily maximum and minimum temperatures. International Journal of Climatology, 42( 16), 8423– 8445. https://doi.org/10.1002/joc.7733
