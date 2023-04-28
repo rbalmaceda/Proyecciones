@@ -12,7 +12,10 @@ En 101 estaciones meteorológicas.
 Balmaceda-Huarte, R., & Bettolli, M. L. (2022). Assessing statistical downscaling in Argentina: Daily maximum and minimum temperatures. International Journal of Climatology, 42( 16), 8423– 8445. (https://doi.org/10.1002/joc.7733)
 
 (En construccion)
+
 Las simulaciones se encuentran disponibles en:
 
-
-[GitHub Pages] (https://drive.google.com/drive/folders/1DeGGYvNjcBkizaVyiSJa1MzShffcVILT?usp=share_link)
+**Acceso a los datos**
+```
+[Proyecciones] (https://drive.google.com/drive/folders/1DeGGYvNjcBkizaVyiSJa1MzShffcVILT?usp=share_link)
+```
