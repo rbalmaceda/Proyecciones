@@ -7,15 +7,10 @@ AN.P3.L  AN.P2.LS.a  GLM.P2.LS.a  GLM.P3.L  ANN.P2.LS.a  ANN.P3.L
 
 En 101 estaciones meteorológicas. 
 
-**Información sobre los modelos ESD pueden encontrarse en:**
-
-Balmaceda-Huarte, R., & Bettolli, M. L. (2022). Assessing statistical downscaling in Argentina: Daily maximum and minimum temperatures. International Journal of Climatology, 42( 16), 8423– 8445. (https://doi.org/10.1002/joc.7733)
-
-(En construccion)
-
-Las simulaciones se encuentran disponibles en:
-
 **Acceso a los datos**
 ```
-[Proyecciones] (https://drive.google.com/drive/folders/1DeGGYvNjcBkizaVyiSJa1MzShffcVILT?usp=share_link)
+https://drive.google.com/drive/folders/1DeGGYvNjcBkizaVyiSJa1MzShffcVILT?usp=share_link
 ```
+**Información sobre los modelos ESD pueden encontrarse en:**
+
+Balmaceda-Huarte, R., & Bettolli, M. L. (2022). Assessing statistical downscaling in Argentina: Daily maximum and minimum temperatures. International Journal of Climatology, 42( 16), 8423– 8445. https://doi.org/10.1002/joc.7733
